@@ -48,7 +48,7 @@ Next,
 - cleaned the test cases
 
 ```
-Code a python function named avoidObstacles which solves the following problem.
+Think like an advanced programmer and code a python function named avoidObstacles which solves the following problem.
 
 avoidObstacles  takes an unordered array of integers representing x-coordinates of obstacles situated on a line.
 
@@ -57,11 +57,11 @@ Assume that you are jumping from the point with coordinate 0 to the right. You a
 Find the minimal length of the jump enough to avoid all the obstacles and passes the example test cases below
 
 Examples:
-solution([5, 3, 6, 7, 9]) = 4
+avoidObstacles([5, 3, 6, 7, 9]) = 4
 
-solution( [5, 8, 9, 13, 14]) = 15
+avoidObstacles( [5, 8, 9, 13, 14]) = 15
 
-solution([19, 32, 11, 23]) = 33
+avoidObstacles([19, 32, 11, 23]) = 33
 
 ```
 
